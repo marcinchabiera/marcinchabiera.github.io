@@ -1,3 +1,3 @@
-### Hello World from GitHub Pages
+## Hello World from GitHub
 
 ** work in progress **
